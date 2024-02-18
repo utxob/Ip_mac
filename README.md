@@ -1,5 +1,5 @@
-# Ip_mac 
-<h1> Install Linux </h1><br>
+
+<h1> Install Linux & Termux </h1><br>
 <p>git clone https://github.com/utxob/Ip_mac.git</p>
 <br>
 <h2>ls</h2><br>
